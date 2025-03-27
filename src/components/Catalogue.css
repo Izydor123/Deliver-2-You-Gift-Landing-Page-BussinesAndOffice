@@ -1,0 +1,67 @@
+.catalogue-section {
+    padding: 4rem 2rem;
+    background-color: #ffffff;
+  }
+  
+  .catalogue-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .catalogue-info {
+    margin-bottom: 2.5rem;
+  }
+  
+  .catalogue-info h2 {
+    font-size: 2.5rem;
+    color: rgba(80, 173, 85, 1);
+    margin-bottom: 1.5rem;
+    position: relative;
+    display: inline-block;
+  }
+  
+  .catalogue-info p {
+    font-size: 1.7rem;
+    color: #4a5568;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .catalogue-button-container {
+    margin-top: 2rem;
+  }
+  
+  .catalogue-button {
+    display: inline-block;
+    background-color: #50AD55;
+    color: white;
+    padding: 1rem 2.5rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(80, 173, 85, 0.2);
+  }
+  
+  .catalogue-button:hover {
+    background-color: #428f47;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 8px rgba(80, 173, 85, 0.3);
+  }
+  
+  @media (max-width: 768px) {
+    .catalogue-section {
+      padding: 3rem 1.5rem;
+    }
+  
+    .catalogue-info h2 {
+      font-size: 2rem;
+    }
+  
+    .catalogue-info p {
+      font-size: 1.1rem;
+    }
+  }
