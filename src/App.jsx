@@ -30,7 +30,7 @@ function App() {
         {id:4, text:"Tarjetero Restek", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/197", image:image4},
         ]}
         title="Outros produtos desta categoria"/>
-      <Catalogue text="Conheça os nossos outros produtos associados à agricultura" link={catalogue}/>
+      <Catalogue text="Conheça os nossos outros produtos associados os negócios e escritório" link={catalogue}/>
       <Footer/>
     </section>
   )
