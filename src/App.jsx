@@ -9,7 +9,6 @@ import image1 from './assets/pot.jpg'
 import image2 from './assets/projector.jpg'
 import image3 from './assets/multi.jpg'
 import image4 from './assets/bag.jpg'
-import catalogue from './assets/Catalogue.pdf'
 
 function App() {
 
@@ -30,7 +29,7 @@ function App() {
         {id:4, text:"Tarjetero Restek", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/197", image:image4},
         ]}
         title="Outros produtos desta categoria"/>
-      <Catalogue text="Conheça os nossos outros produtos associados os negócios e escritório" link={catalogue}/>
+      <Catalogue text="Conheça os nossos outros produtos associados os negócios e escritório" link="https://generalcatalogue2025.eu/deliver2yougift/#page/164"/>
       <Footer/>
     </section>
   )
