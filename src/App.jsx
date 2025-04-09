@@ -19,7 +19,7 @@ function App() {
        image={imageMain} 
        title="Pasta Multifuncao Harbur: Tecnologia e Versatilidade num Só Objecto" 
        desc1="Esta pasta multifunção em poliéster 300D RPET representa o encontro perfeito entre funcionalidade moderna e design elegante. Com um acabamento em tom de cinzento sofisticado, destaca-se pela sua tecnologia integrada de MagSafe e carregamento Qi, permitindo carregar dispositivos sem fios de forma prática e eficiente."
-       desc2="As suas dimensões compactas (23,5 cm x 2 cm x 31 cm) a tornam ideal para profissionais e estudantes que valorizam mobilidade e tecnologia. O material RPET demonstra ainda um compromisso com a sustentabilidade, sendo fabricado a partir de plástico reciclado."
+       desc2="As suas dimensões compactas (23,5 cm x 2 cm x 31 cm) tornam-na ideal para profissionais e estudantes que valorizam a mobilidade e tecnologia. O material RPET demonstra ainda um compromisso com a sustentabilidade, sendo fabricado a partir de plástico reciclado."
        link="https://generalcatalogue2025.eu/deliver2yougift/#page/166"/>
       <ProductsList 
         data={[
